@@ -1,0 +1,21 @@
+.top{
+    background-color: #0f8a9b;
+    padding: 5px;
+}
+.content{
+    display: table;
+    border: 1px solid #000000;
+    background: #000000;
+    color: #fff;
+    padding: 10px;
+}
+.zmist{
+    text-align: center;
+}
+.before{
+    background-color: ivory;
+    color: #0c74d0;
+}
+.after{
+    background-color: #a75656;
+}
